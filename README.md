@@ -310,7 +310,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Jeet Pramanik**
 - GitHub: [@jeet-pramanik](https://github.com/jeet-pramanik)
-- Email: jeetpramanik516@gmail.com
+
 
 ## 🙏 Acknowledgments
 
